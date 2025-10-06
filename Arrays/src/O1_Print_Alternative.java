@@ -7,3 +7,4 @@ public class O1_Print_Alternative {
         }
     }
 }
+//Alternate elements of an array
